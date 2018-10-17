@@ -1,0 +1,19 @@
+-->(!null,'',undefined)=>true
+   !token => should not be null or '' or undefined,
+
+-->state.token=action.payload.token instead of object.assign
+   store.getState should have type, length, property and json data input,
+
+-->change add to set,
+
+-->to.be.sealed would seal the value,
+
+-->have two actions to differenciate user and bot,
+
+-->conversation history to have from user, and from bot,
+
+-->different action for every trigger,
+
+-->take state as i/p and bot reply,
+
+-->seneca mesh
